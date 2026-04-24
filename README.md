@@ -16,7 +16,7 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💻 Backend-focused developer passionate about building **scalable systems**
 - ⚙️ Working with **Spring Boot, Security, and Microservices Architecture**
@@ -26,36 +26,34 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ---
 
-## 🔥 Tech Stack
+##  Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,react,docker,kubernetes" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,postgres,mysql,mongodb,docker,kubernetes,aws,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔹 OnlineLo – E-Commerce Platform
+###  OnlineLo – E-Commerce Platform
 - Secure full-stack app with **JWT & OAuth2 authentication**
 - Role-based access control
 - Spring Boot + React + PostgreSQL
 
-### 🔹 Space Weather Monitoring System
+###  Space Weather Monitoring System
 - Backend system for analyzing space weather parameters
 - Rule-based alert classification (Normal / Warning / Severe)
 - Spring Boot + PostgreSQL + REST APIs
 
-### 🔹 RouteGuard – Truck Monitoring System
+###  RouteGuard – Truck Monitoring System
 - Real-time route tracking & deviation detection
 - ML-based anomaly detection
 - Map integration using Leaflet.js
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apurv99-cloud&show_icons=true&theme=tokyonight" />
@@ -64,7 +62,7 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/apurva-sinha-b1b259306/" target="blank">
@@ -78,6 +76,6 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
-> I don’t just write code — I build systems 🚀
+> I don’t just write code — I build systems :)
