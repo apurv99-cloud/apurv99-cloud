@@ -43,6 +43,11 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 - Role-based access control
 - Spring Boot + React + PostgreSQL
 
+### 🔹 Space Weather Monitoring System
+- Backend system for analyzing space weather parameters
+- Rule-based alert classification (Normal / Warning / Severe)
+- Spring Boot + PostgreSQL + REST APIs
+
 ### 🔹 RouteGuard – Truck Monitoring System
 - Real-time route tracking & deviation detection
 - ML-based anomaly detection
