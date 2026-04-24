@@ -4,6 +4,16 @@
 Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Engineer;Spring+Boot+Developer;Docker+%26+Kubernetes;Building+Scalable+Systems" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -18,22 +28,11 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ## 🔥 Tech Stack
 
-### 🖥️ Backend
-- Java  
-- Spring Boot  
-- Spring Security  
-- REST APIs  
+<p align="center">
 
-### ⚙️ DevOps
-- Docker  
-- Kubernetes (Learning)  
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,react,docker,kubernetes" />
 
-### 🗄️ Database
-- PostgreSQL  
-- MongoDB  
-
-### 🌐 Frontend
-- React.js  
+</p>
 
 ---
 
@@ -51,10 +50,11 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apurv99-cloud&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurv99-cloud&theme=tokyonight" />
 </p>
 
 ---
@@ -62,12 +62,12 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" />
+<a href="https://www.linkedin.com/in/apurva-sinha-b1b259306/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://instagram.com/YOUR-INSTA" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40" width="40" />
+<a href="https://www.instagram.com/the_knockturnal/" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
 
