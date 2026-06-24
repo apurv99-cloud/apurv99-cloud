@@ -18,11 +18,11 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ##  About Me
 
-- 💻 Backend-focused developer passionate about building **scalable systems**
-- ⚙️ Working with **Spring Boot, Security, and Microservices Architecture**
-- 🐳 Exploring **Docker & Kubernetes for production-ready deployments**
-- 🤖 Interested in **AI-integrated backend systems**
-- 🧠 Strong in **DSA & problem solving**
+-   Backend-focused developer passionate about building **scalable systems**
+-   Working with **Spring Boot, Security, and Microservices Architecture**
+-   Exploring **Docker & Kubernetes for production-ready deployments**
+-   Interested in **AI-integrated backend systems**
+-   Strong in **DSA & problem solving**
 
 ---
 
