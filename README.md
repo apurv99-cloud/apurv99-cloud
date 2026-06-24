@@ -37,30 +37,49 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 ##   Featured Projects
 
 ###   Enterprise Invoice Management System
-- Multi-Tenant SaaS platform with organization-based data isolation
-- JWT Authentication & Role-Based Access Control (RBAC)
-- Secure organization onboarding through invitation-based email workflow
-- Super Admin, Organization Admin, Reviewer, Finance, Director & CFO roles
-- Spring Boot + React + PostgreSQL + Spring Security
+
+* Multi-Tenant SaaS Architecture
+* JWT Authentication & RBAC
+* Organization Onboarding Workflow
+* Spring Boot + React + PostgreSQL
 
 ###   Space Weather Monitoring System
-- Backend system for analyzing space weather parameters
-- Rule-based alert classification (Normal / Warning / Severe)
-- Spring Boot + PostgreSQL + REST APIs
 
-###   RouteGuard – Truck Monitoring System
-- Real-time route tracking & deviation detection
-- ML-based anomaly detection
-- Map integration using Leaflet.js
+* Rule-based Space Weather Analysis
+* Alert Classification Engine
+* Spring Boot + PostgreSQL
+
+###   Route Deviation Detection System
+
+* Real-time Route Monitoring
+* Anomaly Detection System
+* Mapping & Tracking Workflows
+
 
 ---
+
+##  Current Focus
+
+* Building Enterprise Multi-Tenant SaaS Applications
+* Spring Boot & Spring Security
+* JWT Authentication & RBAC
+* React + Vite Frontend Development
+* PostgreSQL Database Design
+* GATE CSE 2027 Preparation
+
 
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurv99-cloud&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurv99-cloud&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=apurv99-cloud&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurv99-cloud&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurv99-cloud&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
