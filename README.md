@@ -34,19 +34,21 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ---
 
-##  Featured Projects
+##   Featured Projects
 
-###  OnlineLo – E-Commerce Platform
-- Secure full-stack app with **JWT & OAuth2 authentication**
-- Role-based access control
-- Spring Boot + React + PostgreSQL
+###   Enterprise Invoice Management System
+- Multi-Tenant SaaS platform with organization-based data isolation
+- JWT Authentication & Role-Based Access Control (RBAC)
+- Secure organization onboarding through invitation-based email workflow
+- Super Admin, Organization Admin, Reviewer, Finance, Director & CFO roles
+- Spring Boot + React + PostgreSQL + Spring Security
 
-###  Space Weather Monitoring System
+###   Space Weather Monitoring System
 - Backend system for analyzing space weather parameters
 - Rule-based alert classification (Normal / Warning / Severe)
 - Spring Boot + PostgreSQL + REST APIs
 
-###  RouteGuard – Truck Monitoring System
+###   RouteGuard – Truck Monitoring System
 - Real-time route tracking & deviation detection
 - ML-based anomaly detection
 - Map integration using Leaflet.js
