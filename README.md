@@ -99,4 +99,5 @@ Backend Engineer | Spring Boot | Scalable Systems | Docker & Kubernetes
 
 ##  Fun Fact
 
-> I don’t just write code — I build systems :)
+> I don’t just write code,
+> I build systems :)
